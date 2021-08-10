@@ -52,10 +52,9 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.20.7
 	k8s.io/apimachinery v0.20.7
-	k8s.io/cli-runtime v0.20.7 // indirect
 	k8s.io/client-go v0.20.7
-	knative.dev/client v0.23.1
-	knative.dev/serving v0.23.1-0.20210614141420-380a090c2039
+	knative.dev/client v0.24.0
+	knative.dev/serving v0.24.0
 )
 
 replace github.com/go-openapi/spec => github.com/go-openapi/spec v0.19.3
