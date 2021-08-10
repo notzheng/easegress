@@ -35,7 +35,7 @@ require (
 	github.com/rs/cors v1.7.0
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.8.0
+	github.com/spf13/viper v1.8.1
 	github.com/tcnksm/go-httpstat v0.2.1-0.20191008022543-e866bb274419
 	github.com/tidwall/gjson v1.8.0
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
