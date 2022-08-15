@@ -18,7 +18,7 @@ require (
 	github.com/golang-jwt/jwt v3.2.1+incompatible
 	github.com/google/uuid v1.2.0
 	github.com/gorilla/websocket v1.4.2
-	github.com/hashicorp/consul/api v1.8.1
+	github.com/hashicorp/consul/api v1.14.0
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/json-iterator/go v1.1.11
 	github.com/klauspost/compress v1.13.1
@@ -49,7 +49,7 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.0
 	go.uber.org/zap v1.19.0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.20.7
 	k8s.io/apimachinery v0.20.7
